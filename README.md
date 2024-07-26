@@ -1,6 +1,6 @@
 # Library-Management-System
 
-The Library Management System is designed to organize, manage, and streamline library-oriented tasks. This system maintains a database for entering new books and records of books that have been retrieved or issued. The main aim of this project is to provide an easy-to-handle and automated library management system. It also offers features and interfaces for maintaining librarian records and  students' issue history.
+The Library Management System is designed to organize, manage, and streamline library-oriented tasks. This system maintains a database for entering new books and records of books retrieved or issued along with viewing the overall inventory of books. The main aim of this project is to provide an easy-to-handle and automated library management system. It also offers features and interfaces for maintaining librarian records and  students' issue history.
 
 ## Features
 
